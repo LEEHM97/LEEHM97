@@ -1,4 +1,4 @@
-## The way to become a Data Scientist!
+## The way to become a Data Scientist
 
 ### Notion page
 
