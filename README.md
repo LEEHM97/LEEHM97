@@ -6,7 +6,7 @@ I'm currently learning ML, DL to become a data scientist🌱
 ***
 
 
-#### 🔗 Link </br>
+#### 🔗 Link
 <a href="https://www.notion.so/Lee-Hyun-Min-s-Notion-369f7567543742028fc187f8841cbc66"><img src="https://img.shields.io/badge/Tech blog-3361CC?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Lee-Hyun-Min-s-Notion-369f7567543742028fc187f8841cbc66"/></a> 
 <a href="mailto:gmlkd2006@gmail.com"><img src="https://img.shields.io/badge/gmlkd2006@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmlkd2006@gmail.com"/></a> 
 ---
